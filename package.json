@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "async": "^3.1.0",
-    "dbus-native": "https://github.com/sidorares/dbus-native/",
+    "dbus-native": "^0.4.0",
     "mqtt": "^3.0.0",
     "protobufjs": "^6.8.8",
     "semaphore": "^1.1.0",
